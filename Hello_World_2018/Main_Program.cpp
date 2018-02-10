@@ -1,8 +1,11 @@
 #include<iostream>
-
-// our headers
+#include "alex_functions.h"
+// your header
 
 void main()
 {
 	//print message 
+	alex_print();
+
+	system("pause");
 }
